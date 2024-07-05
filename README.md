@@ -3,3 +3,5 @@
 -Estado del proyecto: En construccion.
 
 Para ejecutar el sistema debes hacer:
+
+Sitema de registro 2
